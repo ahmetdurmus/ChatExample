@@ -1,0 +1,23 @@
+{
+  "name": "chat_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetdurmus/ChatExample.git"
+  },
+  "author": "Ahmet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmetdurmus/ChatExample/issues"
+  },
+  "homepage": "https://github.com/ahmetdurmus/ChatExample#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.2.0"
+  }
+}
